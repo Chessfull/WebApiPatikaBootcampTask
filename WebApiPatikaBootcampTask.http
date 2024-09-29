@@ -1,0 +1,6 @@
+@WebApiPatikaBootcampTask_HostAddress = http://localhost:5008
+
+GET {{WebApiPatikaBootcampTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
